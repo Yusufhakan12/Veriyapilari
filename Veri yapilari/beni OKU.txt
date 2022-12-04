@@ -1,0 +1,2 @@
+hocam ödevde 8 den fazla eleman girerseniz ekran çıktısı çok karışır 
+ ama başlangıçta çalıştırdığınızda istenilen görüntüyü sağlıyor 
